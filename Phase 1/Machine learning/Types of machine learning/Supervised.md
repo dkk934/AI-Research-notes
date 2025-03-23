@@ -79,7 +79,10 @@ Classification involves predicting **discrete categories** or **class labels** b
    - Diagnosing multiple medical conditions from patient data.  
 - **Algorithms Used:**  
    - Adapted versions of SVM or Logistic Regression.  
-   - Deep learning models (e.g., Convolutional Neural Networks).  
+   - Deep learning models (e.g., Convolutional Neural Networks).
+ 
+
+[Watch the video](https://youtu.be/NNue6rkDrws)
 
 
 ### 📊 **Regression vs. Classification Summary**  
