@@ -3,6 +3,7 @@
 Machine learning **model training** is the process of teaching a model to recognize patterns in data by adjusting its internal parameters. The goal is to **minimize errors** and make accurate predictions when given new, unseen data.  
 
 ---
+
 ```mermaid
 graph TD;
     A[Features] -->|Input 1| B[Model];
