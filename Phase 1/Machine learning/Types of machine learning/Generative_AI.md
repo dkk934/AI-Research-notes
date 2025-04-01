@@ -71,30 +71,6 @@ Generative AI models use advanced algorithms to learn the structure and distribu
 
 ---
 
-## 📊 **Applications of Generative AI**  
-
-### 📝 **Text Generation**  
-- AI chatbots (e.g., **ChatGPT**, **Claude**).  
-- Story, essay, and content creation.  
-- Code generation (e.g., **GitHub Copilot**).  
-
-### 🖼️ **Image and Video Generation**  
-- Generating artwork (e.g., **Midjourney**, **DALL·E**).  
-- Creating realistic avatars and digital humans.  
-- Deepfake videos.  
-
-### 🔊 **Audio Generation**  
-- Text-to-speech (TTS) systems.  
-- Music composition (e.g., **Jukebox** by OpenAI).  
-- Voice cloning and synthesis.  
-
-### 🧬 **Scientific and Medical**  
-- Drug discovery (generating molecular structures).  
-- Synthetic medical data for research.  
-- Protein folding predictions (**AlphaFold**).  
-
----
-
 ## 📉 **Challenges in Generative AI**  
 
 1. **Ethical Concerns:**  
