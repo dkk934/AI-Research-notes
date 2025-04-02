@@ -15,9 +15,9 @@ where:
 
 ---
 
-![alt text](image/image.png)
+![alt text](/image/image.png)
 
-![alt text](image/image-2.png)
+![alt text](/image/image-2.png)
 
 ---
 
@@ -38,7 +38,7 @@ Imagine we are trying to predict a student's final exam score based on the numbe
 
 We can use **Linear Regression** to find the best-fit line that represents this data. Now, let's generate a **plot chart** for this dataset and visualize the linear regression line.
 
-![alt text](image/image-1.png)
+![alt text](/image/image-1.png)
 
 In the plot above:
 - **Blue dots** represent actual data points (Hours Studied vs. Exam Score).

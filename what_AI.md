@@ -1,7 +1,3 @@
-### 🧠 **How AI Works – A Simple Guide**
-
----
-
 ## ✅ **What is AI?**
 
 **AI (Artificial Intelligence)** is when **machines** or **computers** are made to **think and act** like humans. It allows machines to **solve problems, make decisions, and learn from experience**—just like people do.
@@ -102,3 +98,8 @@ A **Neural Network** is a type of AI model that **mimics the human brain**.
 3. **Learning-based AI** – **Learns patterns** from data, improves over time.  
 4. **Machine Learning** – A branch of AI where machines **learn from experience**.  
 5. **Neural Networks** – AI’s **brain-like** structure for recognizing complex patterns.  
+
+---
+### Overlap of **ML** / **AI** / **DS**
+
+![alt text](/image/image-3.png)
