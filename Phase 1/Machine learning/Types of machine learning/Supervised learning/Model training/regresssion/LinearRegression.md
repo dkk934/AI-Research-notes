@@ -57,3 +57,7 @@ In the plot above:
 - Linear Regression is useful for predicting continuous values.
 - It assumes a linear relationship between input \( X \) and output \( Y \).
 - The regression line minimizes the **Mean Squared Error (MSE)**.
+
+
+---
+## Continue In --Linear regression: **Loss** --
