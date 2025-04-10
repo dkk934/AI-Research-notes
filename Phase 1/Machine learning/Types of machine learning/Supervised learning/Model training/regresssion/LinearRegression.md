@@ -59,7 +59,7 @@ Estimated score = **80**
 1. **Mean Squared Error (MSE)** → Measures variance in data  
 2. **Mean Absolute Error (MAE)** → Measures standard deviation  
 
-![Loss Graph](image-5.png)
+![Loss Graph](image/image-5.png)
 
 ### **Key Differences**
 - **L1 Loss (MAE):** Useful for detecting outliers.  
@@ -73,7 +73,7 @@ Estimated score = **80**
 - Squaring **penalizes larger errors** more significantly.
 - The loss function is a **parabola**, where the lowest point is the best model fit.
 
-![MSE Loss](image-1.png)
+![MSE Loss](image/image-1.png)
 
 ### **MAE Loss Function**
 - MAE calculates absolute differences between actual and predicted values.
@@ -81,7 +81,7 @@ Estimated score = **80**
 - It’s **more robust** to outliers than MSE.
 - The loss function is a **V-shape**.
 
-![MAE Loss](image-2.png)
+![MAE Loss](image/image-2.png)
 
 ---
 
@@ -98,14 +98,14 @@ Consider a dataset with actual and predicted values:
 
 Graphical representation:
 
-![Loss Visualization](image-3.png)
+![Loss Visualization](image/image-3.png)
 
 ### **Comparison**
 - **MSE (blue dashed line):** A parabola—larger errors contribute significantly.  
 - **MAE (red line):** A V-shape—treats all errors linearly.  
 
-![Loss Arrows](image-4.png)
-![](image-6.png)
+![Loss Arrows](image/image-4.png)
+![](image/image-6.png)
 The arrows show the **difference (error)** between actual and predicted values.
 
 ---
@@ -146,7 +146,7 @@ plt.show()
 ```
 
 ### Output : 
-![alt text](image-7.png) 
+![alt text](image/image-7.png) 
 
 ## Linear Regression Error Analysis  
 
