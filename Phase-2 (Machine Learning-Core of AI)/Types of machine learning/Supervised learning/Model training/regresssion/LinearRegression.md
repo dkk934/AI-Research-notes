@@ -15,8 +15,8 @@ where:
 ---
 
 ## **Graphical Representation**
-![Linear Regression Model](/image/image.png)  
-![Best Fit Line](/image/image-2.png)  
+![Linear Regression Model](/Assets/image/image.png)  
+![Best Fit Line](/Assets/image/image-2.png)  
 
 ---
 
@@ -34,7 +34,7 @@ Imagine we are trying to predict a student's final exam score based on the numbe
 
 Using **Linear Regression**, we find the best-fit line for this dataset.
 
-![Regression Line](/image/image-1.png)
+![Regression Line](/Assets/image/image-1.png)
 
 ### **Graph Explanation**
 - **Blue dots** represent actual data points (Hours Studied vs. Exam Score).
