@@ -25,8 +25,18 @@ This repository acts as a **learning notebook + guide** for anyone who wants to 
 * Maintain concise summaries of topics and papers
 * Record simple experiments and reproducible examples
 
+## Learning Roadmap
+
+- [Phase 0: Foundation](notes/Phase-0%20(Foundation%20Mindset)/what_AI.md)
+
+- [Phase 1: Programming & Math](notes/Phase-1%20(Programming%20+%20Math%20Basics)/basics_python.md)
+
+- [Phase 2: Machine Learning](notes/Phase-2%20(Machine%20Learning-Core%20of%20AI)/what_ML.md)
+
+
 ## Contributing
 
 This repository is mainly for learning and documentation purposes. However, suggestions, improvements, or additional beginner-friendly explanations are welcome through issues or pull requests.
+### [Click on this to contribute](Contribution_Rules.md)
 
 ---
